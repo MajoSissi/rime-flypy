@@ -1,0 +1,3 @@
+patch:
+  symbol_table/half_shape/{: '{'
+  symbol_table/half_shape/} : '}'
